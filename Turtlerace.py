@@ -1,6 +1,6 @@
-import turtle              # import the modules
-from random import randint # to make the random movement of turtles use ranindt() from random module
-wn = turtle.Screen()       # Create a screen
+import turtle                   # import the modules
+from random import randint      # to make the random movement of turtles use ranindt() from random module
+wn = turtle.Screen()            # Create a screen
 wn.bgcolor('cyan')
 
 
